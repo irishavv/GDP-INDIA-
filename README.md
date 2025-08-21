@@ -28,8 +28,3 @@ This project demonstrates how **data science and machine learning** can be lever
 - **Database**: CSV / SQL (depending on dataset integration)  
 
 ---
-
-## ⚡ Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/gdp-analysis.git
